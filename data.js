@@ -3,7 +3,7 @@ const users = [
   { id: 2, firstName: "Angel", lastName: "Valant", email:"test2@email.com", passed: "test2" }
 ]
 
-const purchases = [
+const data = [
   {
     id: 1,
     name: "Trip1",
