@@ -8,12 +8,12 @@ const data = [
     id: 1,
     name: "Trip1",
     description: "This is a short description.",
-    location = {
+    location: {
       latitutude: 38.9072,
       longitude: 77.0369
     },
     amount: 10,
-    user_id: 1,
+    user_id: 1
   }
 ]
 
