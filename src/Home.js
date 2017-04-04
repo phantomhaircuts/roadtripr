@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import NavContainer from './NavContainer';
-import User from './User'
+import PurchaseContainer from './PurchaseContainer'
 
 class Home extends Component {
   render() {
     return (
       <div className="Home">
         <NavContainer />
-        <User />
+        <PurchaseContainer />
       </div>
     );
   }
