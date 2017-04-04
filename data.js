@@ -6,9 +6,10 @@ const users = [
 const data = [
   {
     id: 1,
-    name: "Trip1",
+    name: "Snacks from Exxon",
     description: "This is a short description.",
-    location = {
+    location : {
+      name: 'Exxon',
       latitutude: 38.9072,
       longitude: 77.0369
     },
